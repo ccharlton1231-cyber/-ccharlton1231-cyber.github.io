@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(ps4-assets/triggers.svg);
+    background: url(https://imgur.com/miOhYdD.png);
     opacity: 0;
 }
 
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(ps4-assets/sticks.svg);
+    background: url(https://imgur.com/t5xmAlg.png);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svg);
+    background: url(https://imgur.com/L3D5D07.png);
     position: absolute;
 }
 
